@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MathQuiz</string>
+    <string name="novaIgraAButton">Nova Igra - A</string>
+    <string name="novaIgraBButton">Nova Igra - B</string>
+    <string name="pravilaIgreButton">Pravila Igre</string>
+    <string name="odgovorButtonText">Posalji</string>
+</resources>
